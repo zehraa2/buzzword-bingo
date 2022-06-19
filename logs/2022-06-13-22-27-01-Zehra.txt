@@ -1,0 +1,8 @@
+2022-06-13-22-27-01 - Zehra joined the game
+2022-06-13-22-27-01 grid size: 5
+2022-06-13-22-29-09 Checked word: Skalierbar at position: 1,1
+2022-06-13-22-33-11 Checked word: Picture at position: 2,2
+2022-06-13-22-34-06 Checked word: Return at position: 4,4
+2022-06-13-22-34-35 Checked word: Blog at position: 5,5
+2022-06-13-22-34-35 Bingo! Zehra won the game
+2022-06-13-22-34-35 Zehra left the game

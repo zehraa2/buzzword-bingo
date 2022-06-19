@@ -1,0 +1,4 @@
+2022-06-19-21-28-30 - Alia joined the game
+2022-06-19-21-28-30 grid size: 5
+2022-06-19-21-29-35 Checked word: 3.0 at position: 4,3
+2022-06-19-21-30-20 Checked word: Pro-aktiv at position: 3,2

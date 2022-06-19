@@ -1,0 +1,4 @@
+2022-06-19-21-27-57 - Zehra joined the game
+2022-06-19-21-27-57 grid size: 5
+2022-06-19-21-29-15 Checked word: Best at position: 1,1
+2022-06-19-21-31-44 Checked word: Community at position: 2,2
